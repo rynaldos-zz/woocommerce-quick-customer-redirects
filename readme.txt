@@ -36,7 +36,7 @@ A: Then customers that register will be redirected to shop page (default), and c
 A: No! Users that have shop manager / admin roles will automatically be redirected to the wp-admin dashboard.
 
 = Q: Where can I go if I find an issue or want to recommend a feature? =
-A: You can submit a issues / feature requests on the [Public GitHub Repository](). 
+A: You can submit a issues / feature requests on the [Public GitHub Repository](https://github.com/rynaldos/woocommerce-quick-customer-redirects). 
 
 == Screenshots ==
 
